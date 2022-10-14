@@ -1,4 +1,5 @@
 // Q.1--
+//Create a database , give it name like "Human-Resource". Create a collection inside this named "employee".
 // -Query the collection ""employee"" and list all the documents
 // -Query the collection ""employee"" and list the employees who are having salary more than 30000
 // -Query the collection ""employee"" and list the employees who are having experience more than 2 years.
